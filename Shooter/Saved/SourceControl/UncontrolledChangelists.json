@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/enti/M01Uf2/M01UF2/Shooter/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
