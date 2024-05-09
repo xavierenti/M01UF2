@@ -1211,3 +1211,169 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.05.09-22.06.50:508][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Comprobator/BP_Comprobador_Auto1
 [2024.05.09-22.06.50:508][650]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/BP_Comprobador_Auto10392B22048385E32BFC9CC879B3CB6FC.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/Autosaves/Game/Comprobator/BP_Comprobador_Auto1.uasset'
 [2024.05.09-22.06.50:508][650]LogFileHelpers: Auto-saving content packages took 0.064
+[2024.05.09-22.08.30:099][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.09-22.08.30:122][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-22.08.30:172][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter" FILE="E:/enti/M01Uf2/M01UF2/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2024.05.09-22.08.30:191][417]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.09-22.08.30:191][417]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/BP_FirstPersonCharacter4FFB866044FF90E9CA9717B174C2CA42.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.09-22.08.30:192][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Comprobator/BP_Comprobador" FILE="E:/enti/M01Uf2/M01UF2/Shooter/Content/Comprobator/BP_Comprobador.uasset" SILENT=true
+[2024.05.09-22.08.30:194][417]LogSavePackage: Moving output files for package: /Game/Comprobator/BP_Comprobador
+[2024.05.09-22.08.30:194][417]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/BP_Comprobador53BD6AF54421910D0767AF9B5C106CF4.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/Comprobator/BP_Comprobador.uasset'
+[2024.05.09-22.08.30:203][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms
+[2024.05.09-22.08.30:208][417]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.09-22.08.30:208][417]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.09-22.08.30:208][417]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Comprobator/BP_Comprobador.BP_Comprobador
+[2024.05.09-22.16.31:477][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.05.09-22.16.35:050][581]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.09-22.17.28:571][184]Cmd: TRANSACTION UNDO
+[2024.05.09-22.17.28:571][184]LogEditorTransaction: Undo Move Elements
+[2024.05.09-22.17.28:611][184]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.09-22.17.40:744][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.09-22.17.40:749][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-22.17.40:782][400]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O
+[2024.05.09-22.17.40:782][400]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/0XWE3RNM2XQC0ST1KXG02O18D838154B5FB6FDDCE6FD975C157FB9.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset'
+[2024.05.09-22.17.40:784][400]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R
+[2024.05.09-22.17.40:784][400]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/2XZ3RUK0LFB63FVNQE7P5R80AD174841C64782D714E395BDA9C2C3.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset'
+[2024.05.09-22.17.40:785][400]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8O/J5ZSBKAA6EBWBXZRHKAPWV
+[2024.05.09-22.17.40:785][400]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/J5ZSBKAA6EBWBXZRHKAPWV487BA406453DCC43D6ED0AA2E9350D40.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8O/J5ZSBKAA6EBWBXZRHKAPWV.uasset'
+[2024.05.09-22.17.40:787][400]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0F/R9Z478O7T8E497CFFFZ22U
+[2024.05.09-22.17.40:787][400]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/R9Z478O7T8E497CFFFZ22U7153C1A0433EC6F090AEABA7E13C8947.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0F/R9Z478O7T8E497CFFFZ22U.uasset'
+[2024.05.09-22.17.40:789][400]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/CM/0XQUOI8UE03ZZ21FK5NAKI
+[2024.05.09-22.17.40:789][400]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/0XQUOI8UE03ZZ21FK5NAKI2AAB9DB448EA301D4C625299527F9928.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/CM/0XQUOI8UE03ZZ21FK5NAKI.uasset'
+[2024.05.09-22.17.40:818][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 149 ms)
+[2024.05.09-22.17.40:824][400]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.09-22.17.40:824][400]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_3
+[2024.05.09-22.17.40:824][400]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_4
+[2024.05.09-22.17.40:824][400]LogContentValidation: Display: Validating /Game/Spawner/BP_Spawner.BP_Spawner_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Spawner_C_UAID_00D861A6689DE8F301_1541214600
+[2024.05.09-22.17.40:824][400]LogContentValidation: Display: Validating /Game/Spawner/BP_Spawner.BP_Spawner_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Spawner_C_UAID_00D861A6689DE8F301_1546111601
+[2024.05.09-22.17.40:824][400]LogContentValidation: Display: Validating /Game/Spawner/BP_Spawner.BP_Spawner_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Spawner_C_UAID_00D861A6689DE8F301_1535028599
+[2024.05.09-22.17.54:572][818]Cmd: EDIT COPY
+[2024.05.09-22.17.55:104][875]Cmd: EDIT PASTE
+[2024.05.09-22.17.55:165][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.09-22.18.33:104][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.09-22.18.33:126][272]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto2
+[2024.05.09-22.18.33:126][272]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/2XZ3RUK0LFB63FVNQE7P5R_Auto2E4D67F15446B57962EBEA9B311221817.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto2.uasset'
+[2024.05.09-22.18.33:128][272]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/LU/QO904U293MHHPHOL2OYM3O_Auto2
+[2024.05.09-22.18.33:128][272]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/QO904U293MHHPHOL2OYM3O_Auto2E8D2017D4C4C952116EE30BD01B68D0F.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/LU/QO904U293MHHPHOL2OYM3O_Auto2.uasset'
+[2024.05.09-22.18.33:129][272]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.044
+[2024.05.09-22.18.33:129][272]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2024.05.09-22.19.23:250][ 41]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.09-22.19.23:263][ 41]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.09-22.19.23:273][ 42]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.09-22.19.26:091][304]LogContentBrowser: Attempting asset rename: NewFolder -> Puerta
+[2024.05.09-22.19.26:094][304]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.09-22.19.34:236][941]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.09-22.19.34:243][941]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.09-22.19.34:250][941]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.09-22.19.34:270][943]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.09-22.19.38:388][328]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Puerta
+[2024.05.09-22.19.38:394][328]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.09-22.19.39:901][473]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Puerta/BP_Puerta.BP_Puerta
+[2024.05.09-22.19.39:902][473]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-22.19.39:902][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-22.19.40:018][473]LogViewport: Scene viewport resized to 1141x888, mode Windowed.
+[2024.05.09-22.19.40:066][474]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.05.09-22.19.49:348][528]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2024.05.09-22.19.54:759][132]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-22.21.02:992][171]BlueprintLog: New page: Compile BP_Puerta
+[2024.05.09-22.21.03:087][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.09-22.25.29:571][786]LogDerivedDataCache: C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 465 files in 781 folders with total size 11 MiB.
+[2024.05.09-22.27.36:394][528]BlueprintLog: New page: Compile BP_Puerta
+[2024.05.09-22.27.36:442][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.05.09-22.27.41:384][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.09-22.27.41:388][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-22.27.41:418][109]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R
+[2024.05.09-22.27.41:419][109]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/2XZ3RUK0LFB63FVNQE7P5R3F39FBA24D784B010D8879A9F9092563.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset'
+[2024.05.09-22.27.41:449][109]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/LU/QO904U293MHHPHOL2OYM3O
+[2024.05.09-22.27.41:450][109]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/QO904U293MHHPHOL2OYM3O93E0584D49FA02760D6CF7B3817DE1C1.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/LU/QO904U293MHHPHOL2OYM3O.uasset'
+[2024.05.09-22.27.41:474][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter" FILE="E:/enti/M01Uf2/M01UF2/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2024.05.09-22.27.41:499][109]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.09-22.27.41:499][109]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/BP_FirstPersonCharacter6E60F1E34FAFED010A6DC191AB572872.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.09-22.27.41:509][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Puerta/BP_Puerta" FILE="E:/enti/M01Uf2/M01UF2/Shooter/Content/Puerta/BP_Puerta.uasset" SILENT=true
+[2024.05.09-22.27.41:514][109]LogSavePackage: Moving output files for package: /Game/Puerta/BP_Puerta
+[2024.05.09-22.27.41:514][109]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/BP_Puerta6316598D499D82EDE216E6B140358C67.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/Puerta/BP_Puerta.uasset'
+[2024.05.09-22.27.41:524][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 285 ms)
+[2024.05.09-22.27.41:532][109]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.09-22.27.41:532][109]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.09-22.27.41:532][109]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_4
+[2024.05.09-22.27.41:532][109]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Puerta/BP_Puerta.BP_Puerta
+[2024.05.09-22.27.41:532][109]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00D861A6689D16F401_1973083695
+[2024.05.09-22.27.46:161][566]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puerta/BP_Puerta.BP_Puerta_C
+[2024.05.09-22.27.46:161][566]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puerta/BP_Puerta.BP_Puerta_C
+[2024.05.09-22.27.46:163][566]LogActorFactory: Actor Factory spawned Blueprint /Game/Puerta/BP_Puerta.BP_Puerta as actor: BP_Puerta_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Puerta_C_0
+[2024.05.09-22.27.46:164][566]LogActorFactory: Actor Factory spawned Blueprint /Game/Puerta/BP_Puerta.BP_Puerta as actor: BP_Puerta_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Puerta_C_0
+[2024.05.09-22.27.46:170][566]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.09-22.27.46:705][621]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puerta/BP_Puerta.BP_Puerta_C
+[2024.05.09-22.27.46:705][621]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puerta/BP_Puerta.BP_Puerta_C
+[2024.05.09-22.27.46:708][621]LogActorFactory: Actor Factory spawned Blueprint /Game/Puerta/BP_Puerta.BP_Puerta as actor: BP_Puerta_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Puerta_C_UAID_00D861A6689D17F401_1490912872
+[2024.05.09-22.27.46:709][621]LogActorFactory: Actor Factory spawned Blueprint /Game/Puerta/BP_Puerta.BP_Puerta as actor: BP_Puerta_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Puerta_C_UAID_00D861A6689D17F401_1490912872
+[2024.05.09-22.28.06:975][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-22.28.07:009][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0E/RPEO0XOVI0KV8ZATUII5HQ
+[2024.05.09-22.28.07:009][529]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/RPEO0XOVI0KV8ZATUII5HQ3A9710D248512BB8E6742BA1035EC16E.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0E/RPEO0XOVI0KV8ZATUII5HQ.uasset'
+[2024.05.09-22.28.07:019][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 329 ms)
+[2024.05.09-22.28.07:024][529]AssetCheck: New page: Asset Save: BP_Puerta_C_UAID_00D861A6689D17F401_1490912872
+[2024.05.09-22.28.07:024][529]LogContentValidation: Display: Validating /Game/Puerta/BP_Puerta.BP_Puerta_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Puerta_C_UAID_00D861A6689D17F401_1490912872
+[2024.05.09-22.28.08:520][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.05.09-22.28.45:309][766]LogEditorTransaction: Undo Paste clipboard contents
+[2024.05.09-22.29.37:526][837]BlueprintLog: New page: Compile BP_Puerta
+[2024.05.09-22.29.37:565][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.09-22.29.39:502][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.09-22.29.39:506][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-22.29.39:536][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0E/RPEO0XOVI0KV8ZATUII5HQ
+[2024.05.09-22.29.39:536][ 59]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/RPEO0XOVI0KV8ZATUII5HQ7CA019C44D78239B2776908976D13762.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0E/RPEO0XOVI0KV8ZATUII5HQ.uasset'
+[2024.05.09-22.29.39:560][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter" FILE="E:/enti/M01Uf2/M01UF2/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2024.05.09-22.29.39:580][ 59]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.09-22.29.39:581][ 59]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/BP_FirstPersonCharacter6D87F30743A83784D5E64E93B1930A71.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.09-22.29.39:590][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Puerta/BP_Puerta" FILE="E:/enti/M01Uf2/M01UF2/Shooter/Content/Puerta/BP_Puerta.uasset" SILENT=true
+[2024.05.09-22.29.39:595][ 59]LogSavePackage: Moving output files for package: /Game/Puerta/BP_Puerta
+[2024.05.09-22.29.39:596][ 59]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/BP_Puerta0BDDED5B467DC0525B4ABFADCD319F89.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/Puerta/BP_Puerta.uasset'
+[2024.05.09-22.29.39:603][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 425 ms)
+[2024.05.09-22.29.39:609][ 59]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.09-22.29.39:609][ 59]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.09-22.29.39:609][ 59]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Puerta/BP_Puerta.BP_Puerta
+[2024.05.09-22.29.39:609][ 59]LogContentValidation: Display: Validating /Game/Puerta/BP_Puerta.BP_Puerta_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Puerta_C_UAID_00D861A6689D17F401_1490912872
+[2024.05.09-22.29.42:788][433]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.09-22.30.02:661][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.09-22.30.02:666][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-22.30.02:698][334]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0E/RPEO0XOVI0KV8ZATUII5HQ
+[2024.05.09-22.30.02:699][334]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/RPEO0XOVI0KV8ZATUII5HQD374178F4F0AEA77531CA6A78B1747BD.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0E/RPEO0XOVI0KV8ZATUII5HQ.uasset'
+[2024.05.09-22.30.02:724][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 484 ms)
+[2024.05.09-22.30.02:730][334]AssetCheck: New page: Asset Save: BP_Puerta_C_UAID_00D861A6689D17F401_1490912872
+[2024.05.09-22.30.02:730][334]LogContentValidation: Display: Validating /Game/Puerta/BP_Puerta.BP_Puerta_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Puerta_C_UAID_00D861A6689D17F401_1490912872
+[2024.05.09-22.32.10:695][217]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.09-22.32.10:794][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.05.09-22.32.52:660][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.09-22.32.52:667][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0E/RPEO0XOVI0KV8ZATUII5HQ_Auto3
+[2024.05.09-22.32.52:667][640]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/RPEO0XOVI0KV8ZATUII5HQ_Auto37D455CEC46130821DF7FF39688EB4D9F.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0E/RPEO0XOVI0KV8ZATUII5HQ_Auto3.uasset'
+[2024.05.09-22.32.52:667][640]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.031
+[2024.05.09-22.32.52:667][640]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2024.05.09-22.32.52:668][640]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.05.09-22.32.52:689][640]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.05.09-22.32.52:689][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.05.09-22.32.52:710][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3
+[2024.05.09-22.32.52:710][640]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/BP_FirstPersonCharacter_Auto35B4DE5DF421D1E508FEBEE911EBBFA28.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3.uasset'
+[2024.05.09-22.32.52:711][640]LogFileHelpers: Auto-saving content packages took 0.044
+[2024.05.09-22.38.56:205][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.09-22.38.56:208][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-22.38.56:236][567]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0E/RPEO0XOVI0KV8ZATUII5HQ
+[2024.05.09-22.38.56:236][567]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/RPEO0XOVI0KV8ZATUII5HQ5892CF4C48732B7143E0DA9222F756F1.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0E/RPEO0XOVI0KV8ZATUII5HQ.uasset'
+[2024.05.09-22.38.56:237][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter" FILE="E:/enti/M01Uf2/M01UF2/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2024.05.09-22.38.56:259][567]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.09-22.38.56:259][567]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/BP_FirstPersonCharacter705DFB6742C12A692342CFB0A8CCB744.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.09-22.38.56:266][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 542 ms)
+[2024.05.09-22.38.56:274][567]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.09-22.38.56:274][567]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.09-22.38.56:274][567]LogContentValidation: Display: Validating /Game/Puerta/BP_Puerta.BP_Puerta_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Puerta_C_UAID_00D861A6689D17F401_1490912872
+[2024.05.09-22.40.23:202][  6]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.09-22.40.23:295][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.05.09-22.40.25:151][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.09-22.40.25:157][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-22.40.25:185][192]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0E/RPEO0XOVI0KV8ZATUII5HQ
+[2024.05.09-22.40.25:185][192]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/RPEO0XOVI0KV8ZATUII5HQ7473DCFF4835744CC2CB76B2B37C9FB7.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0E/RPEO0XOVI0KV8ZATUII5HQ.uasset'
+[2024.05.09-22.40.25:219][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter" FILE="E:/enti/M01Uf2/M01UF2/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2024.05.09-22.40.25:240][192]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.09-22.40.25:240][192]LogSavePackage: Moving 'E:/enti/M01Uf2/M01UF2/Shooter/Saved/BP_FirstPersonCharacter95E1170D4545E9B6D34B2B96DE97E2BB.tmp' to 'E:/enti/M01Uf2/M01UF2/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.09-22.40.25:247][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 632 ms)
+[2024.05.09-22.40.25:254][192]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.09-22.40.25:254][192]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.09-22.40.25:254][192]LogContentValidation: Display: Validating /Game/Puerta/BP_Puerta.BP_Puerta_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Puerta_C_UAID_00D861A6689D17F401_1490912872

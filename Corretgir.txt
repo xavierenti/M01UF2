@@ -1,0 +1,25 @@
+git: https://github.com/xavierenti/M01UF2.git 
+- carpeta spawner
+	- BP_Targets
+		- Destruir y dar puntos
+		- Dar velocidad al objeto
+ 	- BP_Spawner
+		- Recibir tiempo spawn
+		- ComrobarSpawn / si se spawnea y quando acaba
+- Carpeta Puerta
+	- BP_Puerta
+		- Poner una caja invisible para comprobacion de player
+		- Confirmacion de apertura de puerta
+- BP_FirstPersonCharacter
+	- Suma de puntos
+	- Iniciar Juego + Timer
+		- Podemos Abrir Puerta?
+		- Iniciar Spawner
+		- Printear Texto
+		- Cuenta Atras Juego
+	- Condicion de Victoria o Derrota
+	- Reinicio a lo Bruto
+
+PD: Tengo que decir que no sabia que poner para que restara puntos pero con lo de sumar ubiese echo lo mismo pero a la inversa
+
+
