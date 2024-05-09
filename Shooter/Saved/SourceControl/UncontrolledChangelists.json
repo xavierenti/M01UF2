@@ -7,7 +7,12 @@
 			"files": [
 				"E:/enti/M01Uf2/M01UF2/Shooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
-				"E:/enti/M01Uf2/M01UF2/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/Spawner/BP_Spawner.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/Spawner/BP_Targets.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0F/R9Z478O7T8E497CFFFZ22U.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/CM/0XQUOI8UE03ZZ21FK5NAKI.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8O/J5ZSBKAA6EBWBXZRHKAPWV.uasset"
 			]
 		}
 	]
