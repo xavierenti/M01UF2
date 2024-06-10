@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/xavier.massaneda/Desktop/Conho/M01UF2/Shooter 5.2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/xavier.massaneda/Desktop/Conho/M01UF2/Shooter 5.2/Content/Corretgir/Puerta/BP_Puerta.uasset",
+				"C:/Users/xavier.massaneda/Desktop/Conho/M01UF2/Shooter 5.2/Content/Puerta/BP_Puerta.uasset",
+				"C:/Users/xavier.massaneda/Desktop/Conho/M01UF2/Shooter 5.2/Content/Corretgir/Spawner/BP_Targets.uasset",
+				"C:/Users/xavier.massaneda/Desktop/Conho/M01UF2/Shooter 5.2/Content/Corretgir/Spawner/BP_Spawner.uasset",
+				"C:/Users/xavier.massaneda/Desktop/Conho/M01UF2/Shooter 5.2/Content/Spawner/BP_Spawner.uasset",
+				"C:/Users/xavier.massaneda/Desktop/Conho/M01UF2/Shooter 5.2/Content/Spawner/BP_Targets.uasset",
+				"C:/Users/xavier.massaneda/Desktop/Conho/M01UF2/Shooter 5.2/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/xavier.massaneda/Desktop/Conho/M01UF2/Shooter 5.2/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"C:/Users/xavier.massaneda/Desktop/Conho/M01UF2/Shooter 5.2/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/xavier.massaneda/Desktop/Conho/M01UF2/Shooter 5.2/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/xavier.massaneda/Desktop/Conho/M01UF2/Shooter 5.2/Content/Corretgir/BP_FirstPersonCharacter.uasset",
+				"C:/Users/xavier.massaneda/Desktop/Conho/M01UF2/Shooter 5.2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/Spawner/BP_Spawner.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/Spawner/BP_Targets.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0F/R9Z478O7T8E497CFFFZ22U.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/CM/0XQUOI8UE03ZZ21FK5NAKI.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8O/J5ZSBKAA6EBWBXZRHKAPWV.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/Comprobator/BP_Comprobador.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/LU/QO904U293MHHPHOL2OYM3O.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/Puerta/BP_Puerta.uasset",
+				"E:/enti/M01Uf2/M01UF2/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0E/RPEO0XOVI0KV8ZATUII5HQ.uasset"
+			]
+		}
+	]
+}
